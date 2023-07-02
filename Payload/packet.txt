@@ -1,0 +1,8 @@
+[METHOD] [SPAM_GET] HTTP/1.1
+Host: [HOST]
+User-Agent: [UA]
+Accept: "/"
+Accept-Language: zh-tw
+Connection: Close
+
+[SPAM_POST]
