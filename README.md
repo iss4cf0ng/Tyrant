@@ -1,6 +1,7 @@
 # Tyrant
 ## 簡介
-Tyrant DDoS是一個運用PHP一句話木馬進行壓力測試的工具，透過把指定的Payload注入到eval函數來執行程式。
+Tyrant DDoS是一個運用PHP一句話木馬進行壓力測試的工具，透過把指定的Payload注入到eval函數來執行程式。   
+有bug歡迎提交issues 
 
 ## 免責聲明!!!!!
 工具只限用於學習、壓力測試等合法用途，如非法使用則後果自負
