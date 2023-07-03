@@ -14,3 +14,6 @@ Tyrant DDoS是一個運用PHP一句話木馬進行壓力測試的工具，透過
 ## Screenshot
 ![](1.png)
 ![](2.png)
+
+## Document
+https://malbuffer4pt.github.io/2023/07/02/%E3%80%90Tool%E3%80%91TyrantDDoS/
